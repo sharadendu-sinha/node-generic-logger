@@ -1,2 +1,2 @@
 # node-generic-logger
-Generic logger for node js 
+Generic logger library for node js , a wrapper over winston.
