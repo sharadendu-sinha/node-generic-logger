@@ -1,2 +1,2 @@
 # node-generic-logger
-Generic logger for node js
+Generic logger for node js 
